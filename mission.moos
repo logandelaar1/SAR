@@ -1,0 +1,7 @@
+ServerHost = localhost
+ServerPort = 9000
+
+ProcessConfig = WaypointNavigator
+{
+    AppTick = 10
+   }
